@@ -22,7 +22,7 @@ import {
   StyleSheet,
   Button,
   SafeAreaView,
-  useAnimatedValue
+  useAnimatedValue,
 } from 'react-native';
 
 const App = () => {
