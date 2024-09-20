@@ -384,7 +384,7 @@ Array of animations may run in parallel (overlap), but are started in sequence w
 
 ```tsx
 static loop(
-  animation: CompositeAnimation[],
+  animation: CompositeAnimation,
   config?: LoopAnimationConfig
 ): CompositeAnimation;
 ```
